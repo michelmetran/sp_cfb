@@ -1,0 +1,15 @@
+id_ctr,endereco,numero,complemento,cep,bairro,municipio_sede,telefone_1,telefone_2,email,diretor
+CTR-VIII,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+CTR-IV,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+CTR-XIII,Rua Antonio Marques do Vale,241,,11680-000,Jardim Silop,Ubatuba,(12) 3832-5987,,cfb.ubatuba@sp.gov.br, Gabriele Cerqueira Sant’anna
+CTR-IX,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+CTR-V,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+CTR-XIV,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+CTR-X,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+CTR-I,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+CTR-VI,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+CTR-XI,Rua dos Vianas,625,,09760-040,Baeta Neves,São Bernardo do Campo,(11) 4121-5135,(11) 4121-2571,cfb.sbernardo@sp.gov.br, Michele Aparecida dos Santos Rocha
+CTR-II,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+CTR-XII,Rua Francisco Franco,133,Sala 23,08710-590,Centro,Mogi das Cruzes,(11) 4796-5852,,cfb.mogi@sp.gov.br, Camila Yumi Kano
+CTR-VII,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+CTR-III,Avenida Bartolomeu Gusmão,192,,11030-906,Ponta da Praia,Santos,(13) 3269-1200,,cfb.santos@sp.gov.br, JoãoThiago Wonrath Mele
