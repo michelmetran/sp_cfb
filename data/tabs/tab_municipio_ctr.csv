@@ -1,646 +1,646 @@
-id_municipio,municipio_nome,id_ctr,ctr_nome
-3500105,Adamantina,CTR-V,Presidente Prudente
-3500204,Adolfo,CTR-IV,São José do Rio Preto
-3500303,Aguaí,CTR-I,Campinas
-3500402,Águas da Prata,CTR-I,Campinas
-3500501,Águas de Lindóia,CTR-I,Campinas
-3500550,Águas de Santa Bárbara,CTR-VIII,Sorocaba
-3500600,Águas de São Pedro,CTR-I,Campinas
-3500709,Agudos,CTR-VI,Bauru
-3500758,Alambari,CTR-VIII,Sorocaba
-3500808,Alfredo Marcondes,CTR-V,Presidente Prudente
-3500907,Altair,CTR-IV,São José do Rio Preto
-3501004,Altinópolis,CTR-IX,Ribeirão Preto
-3501103,Alto Alegre,CTR-II,Araçatuba
-3501152,Alumínio,CTR-VIII,Sorocaba
-3501202,Álvares Florence,CTR-II,Araçatuba
-3501301,Álvares Machado,CTR-V,Presidente Prudente
-3501400,Álvaro de Carvalho,CTR-VI,Bauru
-3501509,Alvinlândia,CTR-VI,Bauru
-3501608,Americana,CTR-I,Campinas
-3501707,Américo Brasiliense,CTR-IX,Ribeirão Preto
-3501806,Américo de Campos,CTR-II,Araçatuba
-3501905,Amparo,CTR-I,Campinas
-3502002,Analândia,CTR-I,Campinas
-3502101,Andradina,CTR-II,Araçatuba
-3502200,Angatuba,CTR-VIII,Sorocaba
-3502309,Anhembi,CTR-VIII,Sorocaba
-3502408,Anhumas,CTR-V,Presidente Prudente
-3502507,Aparecida,CTR-VII,Taubaté
-3502606,Aparecida d'Oeste,CTR-II,Araçatuba
-3502705,Apiaí,CTR-XIV,Registro
-3502754,Araçariguama,CTR-VIII,Sorocaba
-3502804,Araçatuba,CTR-II,Araçatuba
-3502903,Araçoiaba da Serra,CTR-VIII,Sorocaba
-3503000,Aramina,CTR-IX,Ribeirão Preto
-3503109,Arandu,CTR-VIII,Sorocaba
-3503158,Arapeí,CTR-VII,Taubaté
-3503208,Araraquara,CTR-IX,Ribeirão Preto
-3503307,Araras,CTR-I,Campinas
-3503356,Arco-Íris,CTR-VI,Bauru
-3503406,Arealva,CTR-VI,Bauru
-3503505,Areias,CTR-VII,Taubaté
-3503604,Areiópolis,CTR-VIII,Sorocaba
-3503703,Ariranha,CTR-IV,São José do Rio Preto
-3503802,Artur Nogueira,CTR-I,Campinas
-3503901,Arujá,CTR-XII,Mogi das Cruzes
-3503950,Aspásia,CTR-II,Araçatuba
-3504008,Assis,CTR-VI,Bauru
-3504107,Atibaia,CTR-I,Campinas
-3504206,Auriflama,CTR-II,Araçatuba
-3504305,Avaí,CTR-VI,Bauru
-3504404,Avanhandava,CTR-II,Araçatuba
-3504503,Avaré,CTR-VIII,Sorocaba
-3504602,Bady Bassitt,CTR-IV,São José do Rio Preto
-3504701,Balbinos,CTR-VI,Bauru
-3504800,Bálsamo,CTR-IV,São José do Rio Preto
-3504909,Bananal,CTR-VII,Taubaté
-3505005,Barão de Antonina,CTR-VIII,Sorocaba
-3505104,Barbosa,CTR-II,Araçatuba
-3505203,Bariri,CTR-VI,Bauru
-3505302,Barra Bonita,CTR-VI,Bauru
-3505351,Barra do Chapéu,CTR-XIV,Registro
-3505401,Barra do Turvo,CTR-XIV,Registro
-3505500,Barretos,CTR-IV,São José do Rio Preto
-3505609,Barrinha,CTR-IX,Ribeirão Preto
-3505708,Barueri,CTR-X,Embu das Artes
-3505807,Bastos,CTR-VI,Bauru
-3505906,Batatais,CTR-IX,Ribeirão Preto
-3506003,Bauru,CTR-VI,Bauru
-3506102,Bebedouro,CTR-IV,São José do Rio Preto
-3506201,Bento de Abreu,CTR-II,Araçatuba
-3506300,Bernardino de Campos,CTR-VI,Bauru
-3506359,Bertioga,CTR-III,Santos
-3506409,Bilac,CTR-II,Araçatuba
-3506508,Birigui,CTR-II,Araçatuba
-3506607,Biritiba-Mirim,CTR-XII,Mogi das Cruzes
-3506706,Boa Esperança do Sul,CTR-IX,Ribeirão Preto
-3506805,Bocaina,CTR-VI,Bauru
-3506904,Bofete,CTR-VIII,Sorocaba
-3507001,Boituva,CTR-VIII,Sorocaba
-3507100,Bom Jesus dos Perdões,CTR-I,Campinas
-3507159,Bom Sucesso de Itararé,CTR-VIII,Sorocaba
-3507209,Borá,CTR-VI,Bauru
-3507308,Boracéia,CTR-VI,Bauru
-3507407,Borborema,CTR-IX,Ribeirão Preto
-3507456,Borebi,CTR-VI,Bauru
-3507506,Botucatu,CTR-VIII,Sorocaba
-3507605,Bragança Paulista,CTR-I,Campinas
-3507704,Braúna,CTR-II,Araçatuba
-3507753,Brejo Alegre,CTR-II,Araçatuba
-3507803,Brodowski,CTR-IX,Ribeirão Preto
-3507902,Brotas,CTR-I,Campinas
-3508009,Buri,CTR-VIII,Sorocaba
-3508108,Buritama,CTR-II,Araçatuba
-3508207,Buritizal,CTR-IX,Ribeirão Preto
-3508306,Cabrália Paulista,CTR-VI,Bauru
-3508405,Cabreúva,CTR-I,Campinas
-3508504,Caçapava,CTR-VII,Taubaté
-3508603,Cachoeira Paulista,CTR-VII,Taubaté
-3508702,Caconde,CTR-I,Campinas
-3508801,Cafelândia,CTR-VI,Bauru
-3508900,Caiabu,CTR-V,Presidente Prudente
-3509007,Caieiras,CTR-XI,São Bernardo do Campo
-3509106,Caiuá,CTR-V,Presidente Prudente
-3509205,Cajamar,CTR-X,Embu das Artes
-3509254,Cajati,CTR-XIV,Registro
-3509304,Cajobi,CTR-IV,São José do Rio Preto
-3509403,Cajuru,CTR-IX,Ribeirão Preto
-3509452,Campina do Monte Alegre,CTR-VIII,Sorocaba
-3509502,Campinas,CTR-I,Campinas
-3509601,Campo Limpo Paulista,CTR-I,Campinas
-3509700,Campos do Jordão,CTR-VII,Taubaté
-3509809,Campos Novos Paulista,CTR-VI,Bauru
-3509908,Cananéia,CTR-XIV,Registro
-3509957,Canas,CTR-VII,Taubaté
-3510005,Cândido Mota,CTR-VI,Bauru
-3510104,Cândido Rodrigues,CTR-IX,Ribeirão Preto
-3510153,Canitar,CTR-VI,Bauru
-3510203,Capão Bonito,CTR-VIII,Sorocaba
-3510302,Capela do Alto,CTR-VIII,Sorocaba
-3510401,Capivari,CTR-I,Campinas
-3510500,Caraguatatuba,CTR-XIII,Ubatuba
-3510609,Carapicuíba,CTR-X,Embu das Artes
-3510708,Cardoso,CTR-II,Araçatuba
-3510807,Casa Branca,CTR-I,Campinas
-3510906,Cássia dos Coqueiros,CTR-IX,Ribeirão Preto
-3511003,Castilho,CTR-II,Araçatuba
-3511102,Catanduva,CTR-IV,São José do Rio Preto
-3511201,Catiguá,CTR-IV,São José do Rio Preto
-3511300,Cedral,CTR-IV,São José do Rio Preto
-3511409,Cerqueira César,CTR-VIII,Sorocaba
-3511508,Cerquilho,CTR-VIII,Sorocaba
-3511607,Cesário Lange,CTR-VIII,Sorocaba
-3511706,Charqueada,CTR-I,Campinas
-3557204,Chavantes,CTR-VI,Bauru
-3511904,Clementina,CTR-II,Araçatuba
-3512001,Colina,CTR-IV,São José do Rio Preto
-3512100,Colômbia,CTR-IV,São José do Rio Preto
-3512209,Conchal,CTR-I,Campinas
-3512308,Conchas,CTR-VIII,Sorocaba
-3512407,Cordeirópolis,CTR-I,Campinas
-3512506,Coroados,CTR-II,Araçatuba
-3512605,Coronel Macedo,CTR-VIII,Sorocaba
-3512704,Corumbataí,CTR-I,Campinas
-3512803,Cosmópolis,CTR-I,Campinas
-3512902,Cosmorama,CTR-II,Araçatuba
-3513009,Cotia,CTR-X,Embu das Artes
-3513108,Cravinhos,CTR-IX,Ribeirão Preto
-3513207,Cristais Paulista,CTR-IX,Ribeirão Preto
-3513306,Cruzália,CTR-VI,Bauru
-3513405,Cruzeiro,CTR-VII,Taubaté
-3513504,Cubatão,CTR-III,Santos
-3513603,Cunha,CTR-VII,Taubaté
-3513702,Descalvado,CTR-IX,Ribeirão Preto
-3513801,Diadema,CTR-XI,São Bernardo do Campo
-3513850,Dirce Reis,CTR-II,Araçatuba
-3513900,Divinolândia,CTR-I,Campinas
-3514007,Dobrada,CTR-IX,Ribeirão Preto
-3514106,Dois Córregos,CTR-VI,Bauru
-3514205,Dolcinópolis,CTR-II,Araçatuba
-3514304,Dourado,CTR-IX,Ribeirão Preto
-3514403,Dracena,CTR-V,Presidente Prudente
-3514502,Duartina,CTR-VI,Bauru
-3514601,Dumont,CTR-IX,Ribeirão Preto
-3514700,Echaporã,CTR-VI,Bauru
-3514809,Eldorado,CTR-XIV,Registro
-3514908,Elias Fausto,CTR-I,Campinas
-3514924,Elisiário,CTR-IV,São José do Rio Preto
-3514957,Embaúba,CTR-IV,São José do Rio Preto
-3515004,Embu,CTR-X,Embu das Artes
-3515103,Embu-Guaçu,CTR-X,Embu das Artes
-3515129,Emilianópolis,CTR-V,Presidente Prudente
-3515152,Engenheiro Coelho,CTR-I,Campinas
-3515186,Espírito Santo do Pinhal,CTR-I,Campinas
-3515194,Espírito Santo do Turvo,CTR-VI,Bauru
-3557303,Estiva Gerbi,CTR-I,Campinas
-3515301,Estrela do Norte,CTR-V,Presidente Prudente
-3515202,Estrela d'Oeste,CTR-II,Araçatuba
-3515350,Euclides da Cunha Paulista,CTR-V,Presidente Prudente
-3515400,Fartura,CTR-VIII,Sorocaba
-3515608,Fernando Prestes,CTR-IX,Ribeirão Preto
-3515509,Fernandópolis,CTR-II,Araçatuba
-3515657,Fernão,CTR-VI,Bauru
-3515707,Ferraz de Vasconcelos,CTR-XII,Mogi das Cruzes
-3515806,Flora Rica,CTR-V,Presidente Prudente
-3515905,Floreal,CTR-II,Araçatuba
-3516002,Flórida Paulista,CTR-V,Presidente Prudente
-3516101,Florínia,CTR-VI,Bauru
-3516200,Franca,CTR-IX,Ribeirão Preto
-3516309,Francisco Morato,CTR-XI,São Bernardo do Campo
-3516408,Franco da Rocha,CTR-XI,São Bernardo do Campo
-3516507,Gabriel Monteiro,CTR-II,Araçatuba
-3516606,Gália,CTR-VI,Bauru
-3516705,Garça,CTR-VI,Bauru
-3516804,Gastão Vidigal,CTR-II,Araçatuba
-3516853,Gavião Peixoto,CTR-IX,Ribeirão Preto
-3516903,General Salgado,CTR-II,Araçatuba
-3517000,Getulina,CTR-VI,Bauru
-3517109,Glicério,CTR-II,Araçatuba
-3517208,Guaiçara,CTR-VI,Bauru
-3517307,Guaimbê,CTR-VI,Bauru
-3517406,Guaíra,CTR-IV,São José do Rio Preto
-3517505,Guapiaçu,CTR-IV,São José do Rio Preto
-3517604,Guapiara,CTR-VIII,Sorocaba
-3517703,Guará,CTR-IX,Ribeirão Preto
-3517802,Guaraçaí,CTR-II,Araçatuba
-3517901,Guaraci,CTR-IV,São José do Rio Preto
-3518008,Guarani d'Oeste,CTR-II,Araçatuba
-3518107,Guarantã,CTR-VI,Bauru
-3518206,Guararapes,CTR-II,Araçatuba
-3518305,Guararema,CTR-XII,Mogi das Cruzes
-3518404,Guaratinguetá,CTR-VII,Taubaté
-3518503,Guareí,CTR-VIII,Sorocaba
-3518602,Guariba,CTR-IX,Ribeirão Preto
-3518701,Guarujá,CTR-III,Santos
-3518800,Guarulhos,CTR-XII,Mogi das Cruzes
-3518859,Guatapará,CTR-IX,Ribeirão Preto
-3518909,Guzolândia,CTR-II,Araçatuba
-3519006,Herculândia,CTR-VI,Bauru
-3519055,Holambra,CTR-I,Campinas
-3519071,Hortolândia,CTR-I,Campinas
-3519105,Iacanga,CTR-VI,Bauru
-3519204,Iacri,CTR-VI,Bauru
-3519253,Iaras,CTR-VIII,Sorocaba
-3519303,Ibaté,CTR-IX,Ribeirão Preto
-3519402,Ibirá,CTR-IV,São José do Rio Preto
-3519501,Ibirarema,CTR-VI,Bauru
-3519600,Ibitinga,CTR-IX,Ribeirão Preto
-3519709,Ibiúna,CTR-VIII,Sorocaba
-3519808,Icém,CTR-IV,São José do Rio Preto
-3519907,Iepê,CTR-V,Presidente Prudente
-3520004,Igaraçu do Tietê,CTR-VI,Bauru
-3520103,Igarapava,CTR-IX,Ribeirão Preto
-3520202,Igaratá,CTR-VII,Taubaté
-3520301,Iguape,CTR-XIV,Registro
-3520426,Ilha Comprida,CTR-XIV,Registro
-3520442,Ilha Solteira,CTR-II,Araçatuba
-3520400,Ilhabela,CTR-XIII,Ubatuba
-3520509,Indaiatuba,CTR-I,Campinas
-3520608,Indiana,CTR-V,Presidente Prudente
-3520707,Indiaporã,CTR-II,Araçatuba
-3520806,Inúbia Paulista,CTR-V,Presidente Prudente
-3520905,Ipaussu,CTR-VI,Bauru
-3521002,Iperó,CTR-VIII,Sorocaba
-3521101,Ipeúna,CTR-I,Campinas
-3521150,Ipiguá,CTR-IV,São José do Rio Preto
-3521200,Iporanga,CTR-XIV,Registro
-3521309,Ipuã,CTR-IX,Ribeirão Preto
-3521408,Iracemápolis,CTR-I,Campinas
-3521507,Irapuã,CTR-IV,São José do Rio Preto
-3521606,Irapuru,CTR-V,Presidente Prudente
-3521705,Itaberá,CTR-VIII,Sorocaba
-3521804,Itaí,CTR-VIII,Sorocaba
-3521903,Itajobi,CTR-IV,São José do Rio Preto
-3522000,Itaju,CTR-VI,Bauru
-3522109,Itanhaém,CTR-III,Santos
-3522158,Itaóca,CTR-XIV,Registro
-3522208,Itapecerica da Serra,CTR-X,Embu das Artes
-3522307,Itapetininga,CTR-VIII,Sorocaba
-3522406,Itapeva,CTR-VIII,Sorocaba
-3522505,Itapevi,CTR-X,Embu das Artes
-3522604,Itapira,CTR-I,Campinas
-3522653,Itapirapuã Paulista,CTR-XIV,Registro
-3522703,Itápolis,CTR-IX,Ribeirão Preto
-3522802,Itaporanga,CTR-VIII,Sorocaba
-3522901,Itapuí,CTR-VI,Bauru
-3523008,Itapura,CTR-II,Araçatuba
-3523107,Itaquaquecetuba,CTR-XII,Mogi das Cruzes
-3523206,Itararé,CTR-VIII,Sorocaba
-3523305,Itariri,CTR-III,Santos
-3523404,Itatiba,CTR-I,Campinas
-3523503,Itatinga,CTR-VIII,Sorocaba
-3523602,Itirapina,CTR-I,Campinas
-3523701,Itirapuã,CTR-IX,Ribeirão Preto
-3523800,Itobi,CTR-I,Campinas
-3523909,Itu,CTR-VIII,Sorocaba
-3524006,Itupeva,CTR-I,Campinas
-3524105,Ituverava,CTR-IX,Ribeirão Preto
-3524204,Jaborandi,CTR-IV,São José do Rio Preto
-3524303,Jaboticabal,CTR-IX,Ribeirão Preto
-3524402,Jacareí,CTR-VII,Taubaté
-3524501,Jaci,CTR-IV,São José do Rio Preto
-3524600,Jacupiranga,CTR-XIV,Registro
-3524709,Jaguariúna,CTR-I,Campinas
-3524808,Jales,CTR-II,Araçatuba
-3524907,Jambeiro,CTR-VII,Taubaté
-3525003,Jandira,CTR-X,Embu das Artes
-3525102,Jardinópolis,CTR-IX,Ribeirão Preto
-3525201,Jarinu,CTR-I,Campinas
-3525300,Jaú,CTR-VI,Bauru
-3525409,Jeriquara,CTR-IX,Ribeirão Preto
-3525508,Joanópolis,CTR-I,Campinas
-3525607,João Ramalho,CTR-VI,Bauru
-3525706,José Bonifácio,CTR-IV,São José do Rio Preto
-3525805,Júlio Mesquita,CTR-VI,Bauru
-3525854,Jumirim,CTR-VIII,Sorocaba
-3525904,Jundiaí,CTR-I,Campinas
-3526001,Junqueirópolis,CTR-V,Presidente Prudente
-3526100,Juquiá,CTR-XIV,Registro
-3526209,Juquitiba,CTR-X,Embu das Artes
-3526308,Lagoinha,CTR-VII,Taubaté
-3526407,Laranjal Paulista,CTR-VIII,Sorocaba
-3526506,Lavínia,CTR-II,Araçatuba
-3526605,Lavrinhas,CTR-VII,Taubaté
-3526704,Leme,CTR-I,Campinas
-3526803,Lençóis Paulista,CTR-VI,Bauru
-3526902,Limeira,CTR-I,Campinas
-3527009,Lindóia,CTR-I,Campinas
-3527108,Lins,CTR-VI,Bauru
-3527207,Lorena,CTR-VII,Taubaté
-3527256,Lourdes,CTR-II,Araçatuba
-3527306,Louveira,CTR-I,Campinas
-3527405,Lucélia,CTR-V,Presidente Prudente
-3527504,Lucianópolis,CTR-VI,Bauru
-3527603,Luís Antônio,CTR-IX,Ribeirão Preto
-3527702,Luiziânia,CTR-II,Araçatuba
-3527801,Lupércio,CTR-VI,Bauru
-3527900,Lutécia,CTR-VI,Bauru
-3528007,Macatuba,CTR-VI,Bauru
-3528106,Macaubal,CTR-II,Araçatuba
-3528205,Macedônia,CTR-II,Araçatuba
-3528304,Magda,CTR-II,Araçatuba
-3528403,Mairinque,CTR-VIII,Sorocaba
-3528502,Mairiporã,CTR-XI,São Bernardo do Campo
-3528601,Manduri,CTR-VIII,Sorocaba
-3528700,Marabá Paulista,CTR-V,Presidente Prudente
-3528809,Maracaí,CTR-VI,Bauru
-3528858,Marapoama,CTR-IV,São José do Rio Preto
-3528908,Mariápolis,CTR-V,Presidente Prudente
-3529005,Marília,CTR-VI,Bauru
-3529104,Marinópolis,CTR-II,Araçatuba
-3529203,Martinópolis,CTR-V,Presidente Prudente
-3529302,Matão,CTR-IX,Ribeirão Preto
-3529401,Mauá,CTR-XI,São Bernardo do Campo
-3529500,Mendonça,CTR-IV,São José do Rio Preto
-3529609,Meridiano,CTR-II,Araçatuba
-3529658,Mesópolis,CTR-II,Araçatuba
-3529708,Miguelópolis,CTR-IX,Ribeirão Preto
-3529807,Mineiros do Tietê,CTR-VI,Bauru
-3530003,Mira Estrela,CTR-II,Araçatuba
-3529906,Miracatu,CTR-XIV,Registro
-3530102,Mirandópolis,CTR-II,Araçatuba
-3530201,Mirante do Paranapanema,CTR-V,Presidente Prudente
-3530300,Mirassol,CTR-IV,São José do Rio Preto
-3530409,Mirassolândia,CTR-IV,São José do Rio Preto
-3530508,Mococa,CTR-I,Campinas
-3530706,Mogi Guaçu,CTR-I,Campinas
-3530607,Mogi das Cruzes,CTR-XII,Mogi das Cruzes
-3530805,Mogi Mirim,CTR-I,Campinas
-3530904,Mombuca,CTR-I,Campinas
-3531001,Monções,CTR-II,Araçatuba
-3531100,Mongaguá,CTR-III,Santos
-3531209,Monte Alegre do Sul,CTR-I,Campinas
-3531308,Monte Alto,CTR-IX,Ribeirão Preto
-3531407,Monte Aprazível,CTR-IV,São José do Rio Preto
-3531506,Monte Azul Paulista,CTR-IV,São José do Rio Preto
-3531605,Monte Castelo,CTR-V,Presidente Prudente
-3531803,Monte Mor,CTR-I,Campinas
-3531704,Monteiro Lobato,CTR-VII,Taubaté
-3531902,Morro Agudo,CTR-IX,Ribeirão Preto
-3532009,Morungaba,CTR-I,Campinas
-3532058,Motuca,CTR-IX,Ribeirão Preto
-3532108,Murutinga do Sul,CTR-II,Araçatuba
-3532157,Nantes,CTR-V,Presidente Prudente
-3532207,Narandiba,CTR-V,Presidente Prudente
-3532306,Natividade da Serra,CTR-VII,Taubaté
-3532405,Nazaré Paulista,CTR-I,Campinas
-3532504,Neves Paulista,CTR-IV,São José do Rio Preto
-3532603,Nhandeara,CTR-II,Araçatuba
-3532702,Nipoã,CTR-IV,São José do Rio Preto
-3532801,Nova Aliança,CTR-IV,São José do Rio Preto
-3532827,Nova Campina,CTR-VIII,Sorocaba
-3532843,Nova Canaã Paulista,CTR-II,Araçatuba
-3532868,Nova Castilho,CTR-II,Araçatuba
-3532900,Nova Europa,CTR-IX,Ribeirão Preto
-3533007,Nova Granada,CTR-IV,São José do Rio Preto
-3533106,Nova Guataporanga,CTR-V,Presidente Prudente
-3533205,Nova Independência,CTR-II,Araçatuba
-3533304,Nova Luzitânia,CTR-II,Araçatuba
-3533403,Nova Odessa,CTR-I,Campinas
-3533254,Novais,CTR-IV,São José do Rio Preto
-3533502,Novo Horizonte,CTR-IV,São José do Rio Preto
-3533601,Nuporanga,CTR-IX,Ribeirão Preto
-3533700,Ocauçu,CTR-VI,Bauru
-3533809,Óleo,CTR-VI,Bauru
-3533908,Olímpia,CTR-IV,São José do Rio Preto
-3534005,Onda Verde,CTR-IV,São José do Rio Preto
-3534104,Oriente,CTR-VI,Bauru
-3534203,Orindiúva,CTR-IV,São José do Rio Preto
-3534302,Orlândia,CTR-IX,Ribeirão Preto
-3534401,Osasco,CTR-X,Embu das Artes
-3534500,Oscar Bressane,CTR-VI,Bauru
-3534609,Osvaldo Cruz,CTR-V,Presidente Prudente
-3534708,Ourinhos,CTR-VI,Bauru
-3534807,Ouro Verde,CTR-V,Presidente Prudente
-3534757,Ouroeste,CTR-II,Araçatuba
-3534906,Pacaembu,CTR-V,Presidente Prudente
-3535002,Palestina,CTR-IV,São José do Rio Preto
-3535101,Palmares Paulista,CTR-IV,São José do Rio Preto
-3535200,Palmeira d'Oeste,CTR-II,Araçatuba
-3535309,Palmital,CTR-VI,Bauru
-3535408,Panorama,CTR-V,Presidente Prudente
-3535507,Paraguaçu Paulista,CTR-VI,Bauru
-3535606,Paraibuna,CTR-VII,Taubaté
-3535705,Paraíso,CTR-IV,São José do Rio Preto
-3535804,Paranapanema,CTR-VIII,Sorocaba
-3535903,Paranapuã,CTR-II,Araçatuba
-3536000,Parapuã,CTR-VI,Bauru
-3536109,Pardinho,CTR-VIII,Sorocaba
-3536208,Pariquera-Açu,CTR-XIV,Registro
-3536257,Parisi,CTR-II,Araçatuba
-3536307,Patrocínio Paulista,CTR-IX,Ribeirão Preto
-3536406,Paulicéia,CTR-V,Presidente Prudente
-3536505,Paulínia,CTR-I,Campinas
-3536570,Paulistânia,CTR-VI,Bauru
-3536604,Paulo de Faria,CTR-IV,São José do Rio Preto
-3536703,Pederneiras,CTR-VI,Bauru
-3536802,Pedra Bela,CTR-I,Campinas
-3536901,Pedranópolis,CTR-II,Araçatuba
-3537008,Pedregulho,CTR-IX,Ribeirão Preto
-3537107,Pedreira,CTR-I,Campinas
-3537156,Pedrinhas Paulista,CTR-VI,Bauru
-3537206,Pedro de Toledo,CTR-III,Santos
-3537305,Penápolis,CTR-II,Araçatuba
-3537404,Pereira Barreto,CTR-II,Araçatuba
-3537503,Pereiras,CTR-VIII,Sorocaba
-3537602,Peruíbe,CTR-III,Santos
-3537701,Piacatu,CTR-II,Araçatuba
-3537800,Piedade,CTR-VIII,Sorocaba
-3537909,Pilar do Sul,CTR-VIII,Sorocaba
-3538006,Pindamonhangaba,CTR-VII,Taubaté
-3538105,Pindorama,CTR-IV,São José do Rio Preto
-3538204,Pinhalzinho,CTR-I,Campinas
-3538303,Piquerobi,CTR-V,Presidente Prudente
-3538501,Piquete,CTR-VII,Taubaté
-3538600,Piracaia,CTR-I,Campinas
-3538709,Piracicaba,CTR-I,Campinas
-3538808,Piraju,CTR-VIII,Sorocaba
-3538907,Pirajuí,CTR-VI,Bauru
-3539004,Pirangi,CTR-IV,São José do Rio Preto
-3539103,Pirapora do Bom Jesus,CTR-X,Embu das Artes
-3539202,Pirapozinho,CTR-V,Presidente Prudente
-3539301,Pirassununga,CTR-I,Campinas
-3539400,Piratininga,CTR-VI,Bauru
-3539509,Pitangueiras,CTR-IX,Ribeirão Preto
-3539608,Planalto,CTR-IV,São José do Rio Preto
-3539707,Platina,CTR-VI,Bauru
-3539806,Poá,CTR-XII,Mogi das Cruzes
-3539905,Poloni,CTR-IV,São José do Rio Preto
-3540002,Pompéia,CTR-VI,Bauru
-3540101,Pongaí,CTR-VI,Bauru
-3540200,Pontal,CTR-IX,Ribeirão Preto
-3540259,Pontalinda,CTR-II,Araçatuba
-3540309,Pontes Gestal,CTR-II,Araçatuba
-3540408,Populina,CTR-II,Araçatuba
-3540507,Porangaba,CTR-VIII,Sorocaba
-3540606,Porto Feliz,CTR-VIII,Sorocaba
-3540705,Porto Ferreira,CTR-IX,Ribeirão Preto
-3540754,Potim,CTR-VII,Taubaté
-3540804,Potirendaba,CTR-IV,São José do Rio Preto
-3540853,Pracinha,CTR-V,Presidente Prudente
-3540903,Pradópolis,CTR-IX,Ribeirão Preto
-3541000,Praia Grande,CTR-III,Santos
-3541059,Pratânia,CTR-VIII,Sorocaba
-3541109,Presidente Alves,CTR-VI,Bauru
-3541208,Presidente Bernardes,CTR-V,Presidente Prudente
-3541307,Presidente Epitácio,CTR-V,Presidente Prudente
-3541406,Presidente Prudente,CTR-V,Presidente Prudente
-3541505,Presidente Venceslau,CTR-V,Presidente Prudente
-3541604,Promissão,CTR-VI,Bauru
-3541653,Quadra,CTR-VIII,Sorocaba
-3541703,Quatá,CTR-VI,Bauru
-3541802,Queiroz,CTR-VI,Bauru
-3541901,Queluz,CTR-VII,Taubaté
-3542008,Quintana,CTR-VI,Bauru
-3542107,Rafard,CTR-I,Campinas
-3542206,Rancharia,CTR-V,Presidente Prudente
-3542305,Redenção da Serra,CTR-VII,Taubaté
-3542404,Regente Feijó,CTR-V,Presidente Prudente
-3542503,Reginópolis,CTR-VI,Bauru
-3542602,Registro,CTR-XIV,Registro
-3542701,Restinga,CTR-IX,Ribeirão Preto
-3542800,Ribeira,CTR-XIV,Registro
-3542909,Ribeirão Bonito,CTR-IX,Ribeirão Preto
-3543006,Ribeirão Branco,CTR-VIII,Sorocaba
-3543105,Ribeirão Corrente,CTR-IX,Ribeirão Preto
-3543204,Ribeirão do Sul,CTR-VI,Bauru
-3543238,Ribeirão dos Índios,CTR-V,Presidente Prudente
-3543253,Ribeirão Grande,CTR-VIII,Sorocaba
-3543303,Ribeirão Pires,CTR-XI,São Bernardo do Campo
-3543402,Ribeirão Preto,CTR-IX,Ribeirão Preto
-3543600,Rifaina,CTR-IX,Ribeirão Preto
-3543709,Rincão,CTR-IX,Ribeirão Preto
-3543808,Rinópolis,CTR-VI,Bauru
-3543907,Rio Claro,CTR-I,Campinas
-3544004,Rio das Pedras,CTR-I,Campinas
-3544103,Rio Grande da Serra,CTR-XI,São Bernardo do Campo
-3544202,Riolândia,CTR-II,Araçatuba
-3543501,Riversul,CTR-VIII,Sorocaba
-3544251,Rosana,CTR-V,Presidente Prudente
-3544301,Roseira,CTR-VII,Taubaté
-3544400,Rubiácea,CTR-II,Araçatuba
-3544509,Rubinéia,CTR-II,Araçatuba
-3544608,Sabino,CTR-VI,Bauru
-3544707,Sagres,CTR-V,Presidente Prudente
-3544806,Sales,CTR-IV,São José do Rio Preto
-3544905,Sales Oliveira,CTR-IX,Ribeirão Preto
-3545001,Salesópolis,CTR-XII,Mogi das Cruzes
-3545100,Salmourão,CTR-V,Presidente Prudente
-3545159,Saltinho,CTR-I,Campinas
-3545209,Salto,CTR-I,Campinas
-3545308,Salto de Pirapora,CTR-VIII,Sorocaba
-3545407,Salto Grande,CTR-VI,Bauru
-3545506,Sandovalina,CTR-V,Presidente Prudente
-3545605,Santa Adélia,CTR-IV,São José do Rio Preto
-3545704,Santa Albertina,CTR-II,Araçatuba
-3545803,Santa Bárbara D'Oeste,CTR-I,Campinas
-3546009,Santa Branca,CTR-VII,Taubaté
-3546108,Santa Clara d'Oeste,CTR-II,Araçatuba
-3546207,Santa Cruz da Conceição,CTR-I,Campinas
-3546256,Santa Cruz da Esperança,CTR-IX,Ribeirão Preto
-3546306,Santa Cruz das Palmeiras,CTR-I,Campinas
-3546405,Santa Cruz do Rio Pardo,CTR-VI,Bauru
-3546504,Santa Ernestina,CTR-IX,Ribeirão Preto
-3546603,Santa Fé do Sul,CTR-II,Araçatuba
-3546702,Santa Gertrudes,CTR-I,Campinas
-3546801,Santa Isabel,CTR-XII,Mogi das Cruzes
-3546900,Santa Lúcia,CTR-IX,Ribeirão Preto
-3547007,Santa Maria da Serra,CTR-I,Campinas
-3547106,Santa Mercedes,CTR-V,Presidente Prudente
-3547502,Santa Rita do Passa Quatro,CTR-IX,Ribeirão Preto
-3547403,Santa Rita d'Oeste,CTR-II,Araçatuba
-3547601,Santa Rosa de Viterbo,CTR-IX,Ribeirão Preto
-3547650,Santa Salete,CTR-II,Araçatuba
-3547205,Santana da Ponte Pensa,CTR-II,Araçatuba
-3547304,Santana de Parnaíba,CTR-X,Embu das Artes
-3547700,Santo Anastácio,CTR-V,Presidente Prudente
-3547809,Santo André,CTR-XI,São Bernardo do Campo
-3547908,Santo Antônio da Alegria,CTR-IX,Ribeirão Preto
-3548005,Santo Antônio de Posse,CTR-I,Campinas
-3548054,Santo Antônio do Aracanguá,CTR-II,Araçatuba
-3548104,Santo Antônio do Jardim,CTR-I,Campinas
-3548203,Santo Antônio do Pinhal,CTR-VII,Taubaté
-3548302,Santo Expedito,CTR-V,Presidente Prudente
-3548401,Santópolis do Aguapeí,CTR-II,Araçatuba
-3548500,Santos,CTR-III,Santos
-3548609,São Bento do Sapucaí,CTR-VII,Taubaté
-3548708,São Bernardo do Campo,CTR-XI,São Bernardo do Campo
-3548807,São Caetano do Sul,CTR-XI,São Bernardo do Campo
-3548906,São Carlos,CTR-IX,Ribeirão Preto
-3549003,São Francisco,CTR-II,Araçatuba
-3549102,São João da Boa Vista,CTR-I,Campinas
-3549201,São João das Duas Pontes,CTR-II,Araçatuba
-3549250,São João de Iracema,CTR-II,Araçatuba
-3549300,São João do Pau d'Alho,CTR-V,Presidente Prudente
-3549409,São Joaquim da Barra,CTR-IX,Ribeirão Preto
-3549508,São José da Bela Vista,CTR-IX,Ribeirão Preto
-3549607,São José do Barreiro,CTR-VII,Taubaté
-3549706,São José do Rio Pardo,CTR-I,Campinas
-3549805,São José do Rio Preto,CTR-IV,São José do Rio Preto
-3549904,São José dos Campos,CTR-VII,Taubaté
-3549953,São Lourenço da Serra,CTR-X,Embu das Artes
-3550001,São Luís do Paraitinga,CTR-VII,Taubaté
-3550100,São Manuel,CTR-VIII,Sorocaba
-3550209,São Miguel Arcanjo,CTR-VIII,Sorocaba
-3550308,São Paulo,CTR-XI,São Bernardo do Campo
-3550407,São Pedro,CTR-I,Campinas
-3550506,São Pedro do Turvo,CTR-VI,Bauru
-3550605,São Roque,CTR-VIII,Sorocaba
-3550704,São Sebastião,CTR-XIII,Ubatuba
-3550803,São Sebastião da Grama,CTR-I,Campinas
-3550902,São Simão,CTR-IX,Ribeirão Preto
-3551009,São Vicente,CTR-III,Santos
-3551108,Sarapuí,CTR-VIII,Sorocaba
-3551207,Sarutaiá,CTR-VIII,Sorocaba
-3551306,Sebastianópolis do Sul,CTR-II,Araçatuba
-3551405,Serra Azul,CTR-IX,Ribeirão Preto
-3551603,Serra Negra,CTR-I,Campinas
-3551504,Serrana,CTR-IX,Ribeirão Preto
-3551702,Sertãozinho,CTR-IX,Ribeirão Preto
-3551801,Sete Barras,CTR-XIV,Registro
-3551900,Severínia,CTR-IV,São José do Rio Preto
-3552007,Silveiras,CTR-VII,Taubaté
-3552106,Socorro,CTR-I,Campinas
-3552205,Sorocaba,CTR-VIII,Sorocaba
-3552304,Sud Mennucci,CTR-II,Araçatuba
-3552403,Sumaré,CTR-I,Campinas
-3552551,Suzanápolis,CTR-II,Araçatuba
-3552502,Suzano,CTR-XII,Mogi das Cruzes
-3552601,Tabapuã,CTR-IV,São José do Rio Preto
-3552700,Tabatinga,CTR-IX,Ribeirão Preto
-3552809,Taboão da Serra,CTR-X,Embu das Artes
-3552908,Taciba,CTR-V,Presidente Prudente
-3553005,Taguaí,CTR-VIII,Sorocaba
-3553104,Taiaçu,CTR-IV,São José do Rio Preto
-3553203,Taiúva,CTR-IV,São José do Rio Preto
-3553302,Tambaú,CTR-I,Campinas
-3553401,Tanabi,CTR-IV,São José do Rio Preto
-3553500,Tapiraí,CTR-VIII,Sorocaba
-3553609,Tapiratiba,CTR-I,Campinas
-3553658,Taquaral,CTR-IX,Ribeirão Preto
-3553708,Taquaritinga,CTR-IX,Ribeirão Preto
-3553807,Taquarituba,CTR-VIII,Sorocaba
-3553856,Taquarivaí,CTR-VIII,Sorocaba
-3553906,Tarabai,CTR-V,Presidente Prudente
-3553955,Tarumã,CTR-VI,Bauru
-3554003,Tatuí,CTR-VIII,Sorocaba
-3554102,Taubaté,CTR-VII,Taubaté
-3554201,Tejupá,CTR-VIII,Sorocaba
-3554300,Teodoro Sampaio,CTR-V,Presidente Prudente
-3554409,Terra Roxa,CTR-IV,São José do Rio Preto
-3554508,Tietê,CTR-VIII,Sorocaba
-3554607,Timburi,CTR-VI,Bauru
-3554656,Torre de Pedra,CTR-VIII,Sorocaba
-3554706,Torrinha,CTR-I,Campinas
-3554755,Trabiju,CTR-IX,Ribeirão Preto
-3554805,Tremembé,CTR-VII,Taubaté
-3554904,Três Fronteiras,CTR-II,Araçatuba
-3554953,Tuiuti,CTR-I,Campinas
-3555000,Tupã,CTR-VI,Bauru
-3555109,Tupi Paulista,CTR-V,Presidente Prudente
-3555208,Turiúba,CTR-II,Araçatuba
-3555307,Turmalina,CTR-II,Araçatuba
-3555356,Ubarana,CTR-IV,São José do Rio Preto
-3555406,Ubatuba,CTR-XIII,Ubatuba
-3555505,Ubirajara,CTR-VI,Bauru
-3555604,Uchoa,CTR-IV,São José do Rio Preto
-3555703,União Paulista,CTR-IV,São José do Rio Preto
-3555802,Urânia,CTR-II,Araçatuba
-3555901,Uru,CTR-VI,Bauru
-3556008,Urupês,CTR-IV,São José do Rio Preto
-3556107,Valentim Gentil,CTR-II,Araçatuba
-3556206,Valinhos,CTR-I,Campinas
-3556305,Valparaíso,CTR-II,Araçatuba
-3556354,Vargem,CTR-I,Campinas
-3556404,Vargem Grande do Sul,CTR-I,Campinas
-3556453,Vargem Grande Paulista,CTR-X,Embu das Artes
-3556503,Várzea Paulista,CTR-I,Campinas
-3556602,Vera Cruz,CTR-VI,Bauru
-3556701,Vinhedo,CTR-I,Campinas
-3556800,Viradouro,CTR-IV,São José do Rio Preto
-3556909,Vista Alegre do Alto,CTR-IV,São José do Rio Preto
-3556958,Vitória Brasil,CTR-II,Araçatuba
-3557006,Votorantim,CTR-VIII,Sorocaba
-3557105,Votuporanga,CTR-II,Araçatuba
-3557154,Zacarias,CTR-IV,São José do Rio Preto
+id_municipio,municipio_nome,id_ctr,ctr_nome,endereco,numero,complemento,cep,bairro,municipio_sede,telefone_1,telefone_2,email,diretor
+3500105,Adamantina,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3500204,Adolfo,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3500303,Aguaí,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3500402,Águas da Prata,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3500501,Águas de Lindóia,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3500550,Águas de Santa Bárbara,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3500600,Águas de São Pedro,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3500709,Agudos,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3500758,Alambari,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3500808,Alfredo Marcondes,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3500907,Altair,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3501004,Altinópolis,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3501103,Alto Alegre,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3501152,Alumínio,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3501202,Álvares Florence,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3501301,Álvares Machado,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3501400,Álvaro de Carvalho,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3501509,Alvinlândia,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3501608,Americana,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3501707,Américo Brasiliense,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3501806,Américo de Campos,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3501905,Amparo,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3502002,Analândia,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3502101,Andradina,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3502200,Angatuba,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3502309,Anhembi,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3502408,Anhumas,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3502507,Aparecida,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3502606,Aparecida d'Oeste,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3502705,Apiaí,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3502754,Araçariguama,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3502804,Araçatuba,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3502903,Araçoiaba da Serra,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3503000,Aramina,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3503109,Arandu,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3503158,Arapeí,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3503208,Araraquara,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3503307,Araras,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3503356,Arco-Íris,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3503406,Arealva,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3503505,Areias,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3503604,Areiópolis,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3503703,Ariranha,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3503802,Artur Nogueira,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3503901,Arujá,CTR-XII,Mogi das Cruzes,Rua Francisco Franco,133,Sala 23,08710-590,Centro,Mogi das Cruzes,(11) 4796-5852,,cfb.mogi@sp.gov.br, Camila Yumi Kano
+3503950,Aspásia,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3504008,Assis,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3504107,Atibaia,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3504206,Auriflama,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3504305,Avaí,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3504404,Avanhandava,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3504503,Avaré,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3504602,Bady Bassitt,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3504701,Balbinos,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3504800,Bálsamo,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3504909,Bananal,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3505005,Barão de Antonina,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3505104,Barbosa,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3505203,Bariri,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3505302,Barra Bonita,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3505351,Barra do Chapéu,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3505401,Barra do Turvo,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3505500,Barretos,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3505609,Barrinha,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3505708,Barueri,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3505807,Bastos,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3505906,Batatais,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3506003,Bauru,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3506102,Bebedouro,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3506201,Bento de Abreu,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3506300,Bernardino de Campos,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3506359,Bertioga,CTR-III,Santos,Avenida Bartolomeu Gusmão,192,,11030-906,Ponta da Praia,Santos,(13) 3269-1200,,cfb.santos@sp.gov.br, JoãoThiago Wonrath Mele
+3506409,Bilac,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3506508,Birigui,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3506607,Biritiba-Mirim,CTR-XII,Mogi das Cruzes,Rua Francisco Franco,133,Sala 23,08710-590,Centro,Mogi das Cruzes,(11) 4796-5852,,cfb.mogi@sp.gov.br, Camila Yumi Kano
+3506706,Boa Esperança do Sul,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3506805,Bocaina,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3506904,Bofete,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3507001,Boituva,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3507100,Bom Jesus dos Perdões,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3507159,Bom Sucesso de Itararé,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3507209,Borá,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3507308,Boracéia,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3507407,Borborema,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3507456,Borebi,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3507506,Botucatu,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3507605,Bragança Paulista,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3507704,Braúna,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3507753,Brejo Alegre,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3507803,Brodowski,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3507902,Brotas,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3508009,Buri,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3508108,Buritama,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3508207,Buritizal,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3508306,Cabrália Paulista,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3508405,Cabreúva,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3508504,Caçapava,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3508603,Cachoeira Paulista,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3508702,Caconde,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3508801,Cafelândia,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3508900,Caiabu,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3509007,Caieiras,CTR-XI,São Bernardo do Campo,Rua dos Vianas,625,,09760-040,Baeta Neves,São Bernardo do Campo,(11) 4121-5135,(11) 4121-2571,cfb.sbernardo@sp.gov.br, Michele Aparecida dos Santos Rocha
+3509106,Caiuá,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3509205,Cajamar,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3509254,Cajati,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3509304,Cajobi,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3509403,Cajuru,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3509452,Campina do Monte Alegre,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3509502,Campinas,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3509601,Campo Limpo Paulista,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3509700,Campos do Jordão,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3509809,Campos Novos Paulista,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3509908,Cananéia,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3509957,Canas,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3510005,Cândido Mota,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3510104,Cândido Rodrigues,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3510153,Canitar,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3510203,Capão Bonito,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3510302,Capela do Alto,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3510401,Capivari,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3510500,Caraguatatuba,CTR-XIII,Ubatuba,Rua Antonio Marques do Vale,241,,11680-000,Jardim Silop,Ubatuba,(12) 3832-5987,,cfb.ubatuba@sp.gov.br, Gabriele Cerqueira Sant’anna
+3510609,Carapicuíba,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3510708,Cardoso,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3510807,Casa Branca,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3510906,Cássia dos Coqueiros,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3511003,Castilho,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3511102,Catanduva,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3511201,Catiguá,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3511300,Cedral,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3511409,Cerqueira César,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3511508,Cerquilho,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3511607,Cesário Lange,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3511706,Charqueada,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3557204,Chavantes,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3511904,Clementina,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3512001,Colina,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3512100,Colômbia,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3512209,Conchal,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3512308,Conchas,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3512407,Cordeirópolis,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3512506,Coroados,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3512605,Coronel Macedo,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3512704,Corumbataí,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3512803,Cosmópolis,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3512902,Cosmorama,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3513009,Cotia,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3513108,Cravinhos,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3513207,Cristais Paulista,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3513306,Cruzália,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3513405,Cruzeiro,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3513504,Cubatão,CTR-III,Santos,Avenida Bartolomeu Gusmão,192,,11030-906,Ponta da Praia,Santos,(13) 3269-1200,,cfb.santos@sp.gov.br, JoãoThiago Wonrath Mele
+3513603,Cunha,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3513702,Descalvado,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3513801,Diadema,CTR-XI,São Bernardo do Campo,Rua dos Vianas,625,,09760-040,Baeta Neves,São Bernardo do Campo,(11) 4121-5135,(11) 4121-2571,cfb.sbernardo@sp.gov.br, Michele Aparecida dos Santos Rocha
+3513850,Dirce Reis,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3513900,Divinolândia,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3514007,Dobrada,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3514106,Dois Córregos,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3514205,Dolcinópolis,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3514304,Dourado,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3514403,Dracena,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3514502,Duartina,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3514601,Dumont,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3514700,Echaporã,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3514809,Eldorado,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3514908,Elias Fausto,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3514924,Elisiário,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3514957,Embaúba,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3515004,Embu,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3515103,Embu-Guaçu,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3515129,Emilianópolis,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3515152,Engenheiro Coelho,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3515186,Espírito Santo do Pinhal,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3515194,Espírito Santo do Turvo,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3557303,Estiva Gerbi,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3515301,Estrela do Norte,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3515202,Estrela d'Oeste,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3515350,Euclides da Cunha Paulista,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3515400,Fartura,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3515608,Fernando Prestes,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3515509,Fernandópolis,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3515657,Fernão,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3515707,Ferraz de Vasconcelos,CTR-XII,Mogi das Cruzes,Rua Francisco Franco,133,Sala 23,08710-590,Centro,Mogi das Cruzes,(11) 4796-5852,,cfb.mogi@sp.gov.br, Camila Yumi Kano
+3515806,Flora Rica,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3515905,Floreal,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3516002,Flórida Paulista,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3516101,Florínia,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3516200,Franca,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3516309,Francisco Morato,CTR-XI,São Bernardo do Campo,Rua dos Vianas,625,,09760-040,Baeta Neves,São Bernardo do Campo,(11) 4121-5135,(11) 4121-2571,cfb.sbernardo@sp.gov.br, Michele Aparecida dos Santos Rocha
+3516408,Franco da Rocha,CTR-XI,São Bernardo do Campo,Rua dos Vianas,625,,09760-040,Baeta Neves,São Bernardo do Campo,(11) 4121-5135,(11) 4121-2571,cfb.sbernardo@sp.gov.br, Michele Aparecida dos Santos Rocha
+3516507,Gabriel Monteiro,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3516606,Gália,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3516705,Garça,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3516804,Gastão Vidigal,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3516853,Gavião Peixoto,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3516903,General Salgado,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3517000,Getulina,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3517109,Glicério,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3517208,Guaiçara,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3517307,Guaimbê,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3517406,Guaíra,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3517505,Guapiaçu,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3517604,Guapiara,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3517703,Guará,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3517802,Guaraçaí,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3517901,Guaraci,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3518008,Guarani d'Oeste,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3518107,Guarantã,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3518206,Guararapes,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3518305,Guararema,CTR-XII,Mogi das Cruzes,Rua Francisco Franco,133,Sala 23,08710-590,Centro,Mogi das Cruzes,(11) 4796-5852,,cfb.mogi@sp.gov.br, Camila Yumi Kano
+3518404,Guaratinguetá,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3518503,Guareí,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3518602,Guariba,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3518701,Guarujá,CTR-III,Santos,Avenida Bartolomeu Gusmão,192,,11030-906,Ponta da Praia,Santos,(13) 3269-1200,,cfb.santos@sp.gov.br, JoãoThiago Wonrath Mele
+3518800,Guarulhos,CTR-XII,Mogi das Cruzes,Rua Francisco Franco,133,Sala 23,08710-590,Centro,Mogi das Cruzes,(11) 4796-5852,,cfb.mogi@sp.gov.br, Camila Yumi Kano
+3518859,Guatapará,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3518909,Guzolândia,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3519006,Herculândia,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3519055,Holambra,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3519071,Hortolândia,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3519105,Iacanga,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3519204,Iacri,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3519253,Iaras,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3519303,Ibaté,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3519402,Ibirá,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3519501,Ibirarema,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3519600,Ibitinga,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3519709,Ibiúna,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3519808,Icém,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3519907,Iepê,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3520004,Igaraçu do Tietê,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3520103,Igarapava,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3520202,Igaratá,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3520301,Iguape,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3520426,Ilha Comprida,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3520442,Ilha Solteira,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3520400,Ilhabela,CTR-XIII,Ubatuba,Rua Antonio Marques do Vale,241,,11680-000,Jardim Silop,Ubatuba,(12) 3832-5987,,cfb.ubatuba@sp.gov.br, Gabriele Cerqueira Sant’anna
+3520509,Indaiatuba,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3520608,Indiana,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3520707,Indiaporã,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3520806,Inúbia Paulista,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3520905,Ipaussu,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3521002,Iperó,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3521101,Ipeúna,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3521150,Ipiguá,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3521200,Iporanga,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3521309,Ipuã,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3521408,Iracemápolis,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3521507,Irapuã,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3521606,Irapuru,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3521705,Itaberá,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3521804,Itaí,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3521903,Itajobi,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3522000,Itaju,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3522109,Itanhaém,CTR-III,Santos,Avenida Bartolomeu Gusmão,192,,11030-906,Ponta da Praia,Santos,(13) 3269-1200,,cfb.santos@sp.gov.br, JoãoThiago Wonrath Mele
+3522158,Itaóca,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3522208,Itapecerica da Serra,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3522307,Itapetininga,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3522406,Itapeva,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3522505,Itapevi,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3522604,Itapira,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3522653,Itapirapuã Paulista,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3522703,Itápolis,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3522802,Itaporanga,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3522901,Itapuí,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3523008,Itapura,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3523107,Itaquaquecetuba,CTR-XII,Mogi das Cruzes,Rua Francisco Franco,133,Sala 23,08710-590,Centro,Mogi das Cruzes,(11) 4796-5852,,cfb.mogi@sp.gov.br, Camila Yumi Kano
+3523206,Itararé,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3523305,Itariri,CTR-III,Santos,Avenida Bartolomeu Gusmão,192,,11030-906,Ponta da Praia,Santos,(13) 3269-1200,,cfb.santos@sp.gov.br, JoãoThiago Wonrath Mele
+3523404,Itatiba,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3523503,Itatinga,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3523602,Itirapina,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3523701,Itirapuã,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3523800,Itobi,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3523909,Itu,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3524006,Itupeva,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3524105,Ituverava,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3524204,Jaborandi,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3524303,Jaboticabal,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3524402,Jacareí,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3524501,Jaci,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3524600,Jacupiranga,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3524709,Jaguariúna,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3524808,Jales,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3524907,Jambeiro,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3525003,Jandira,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3525102,Jardinópolis,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3525201,Jarinu,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3525300,Jaú,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3525409,Jeriquara,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3525508,Joanópolis,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3525607,João Ramalho,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3525706,José Bonifácio,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3525805,Júlio Mesquita,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3525854,Jumirim,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3525904,Jundiaí,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3526001,Junqueirópolis,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3526100,Juquiá,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3526209,Juquitiba,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3526308,Lagoinha,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3526407,Laranjal Paulista,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3526506,Lavínia,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3526605,Lavrinhas,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3526704,Leme,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3526803,Lençóis Paulista,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3526902,Limeira,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3527009,Lindóia,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3527108,Lins,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3527207,Lorena,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3527256,Lourdes,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3527306,Louveira,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3527405,Lucélia,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3527504,Lucianópolis,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3527603,Luís Antônio,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3527702,Luiziânia,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3527801,Lupércio,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3527900,Lutécia,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3528007,Macatuba,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3528106,Macaubal,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3528205,Macedônia,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3528304,Magda,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3528403,Mairinque,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3528502,Mairiporã,CTR-XI,São Bernardo do Campo,Rua dos Vianas,625,,09760-040,Baeta Neves,São Bernardo do Campo,(11) 4121-5135,(11) 4121-2571,cfb.sbernardo@sp.gov.br, Michele Aparecida dos Santos Rocha
+3528601,Manduri,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3528700,Marabá Paulista,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3528809,Maracaí,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3528858,Marapoama,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3528908,Mariápolis,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3529005,Marília,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3529104,Marinópolis,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3529203,Martinópolis,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3529302,Matão,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3529401,Mauá,CTR-XI,São Bernardo do Campo,Rua dos Vianas,625,,09760-040,Baeta Neves,São Bernardo do Campo,(11) 4121-5135,(11) 4121-2571,cfb.sbernardo@sp.gov.br, Michele Aparecida dos Santos Rocha
+3529500,Mendonça,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3529609,Meridiano,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3529658,Mesópolis,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3529708,Miguelópolis,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3529807,Mineiros do Tietê,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3530003,Mira Estrela,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3529906,Miracatu,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3530102,Mirandópolis,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3530201,Mirante do Paranapanema,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3530300,Mirassol,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3530409,Mirassolândia,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3530508,Mococa,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3530706,Mogi Guaçu,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3530607,Mogi das Cruzes,CTR-XII,Mogi das Cruzes,Rua Francisco Franco,133,Sala 23,08710-590,Centro,Mogi das Cruzes,(11) 4796-5852,,cfb.mogi@sp.gov.br, Camila Yumi Kano
+3530805,Mogi Mirim,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3530904,Mombuca,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3531001,Monções,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3531100,Mongaguá,CTR-III,Santos,Avenida Bartolomeu Gusmão,192,,11030-906,Ponta da Praia,Santos,(13) 3269-1200,,cfb.santos@sp.gov.br, JoãoThiago Wonrath Mele
+3531209,Monte Alegre do Sul,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3531308,Monte Alto,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3531407,Monte Aprazível,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3531506,Monte Azul Paulista,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3531605,Monte Castelo,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3531803,Monte Mor,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3531704,Monteiro Lobato,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3531902,Morro Agudo,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3532009,Morungaba,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3532058,Motuca,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3532108,Murutinga do Sul,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3532157,Nantes,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3532207,Narandiba,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3532306,Natividade da Serra,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3532405,Nazaré Paulista,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3532504,Neves Paulista,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3532603,Nhandeara,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3532702,Nipoã,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3532801,Nova Aliança,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3532827,Nova Campina,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3532843,Nova Canaã Paulista,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3532868,Nova Castilho,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3532900,Nova Europa,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3533007,Nova Granada,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3533106,Nova Guataporanga,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3533205,Nova Independência,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3533304,Nova Luzitânia,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3533403,Nova Odessa,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3533254,Novais,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3533502,Novo Horizonte,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3533601,Nuporanga,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3533700,Ocauçu,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3533809,Óleo,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3533908,Olímpia,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3534005,Onda Verde,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3534104,Oriente,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3534203,Orindiúva,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3534302,Orlândia,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3534401,Osasco,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3534500,Oscar Bressane,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3534609,Osvaldo Cruz,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3534708,Ourinhos,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3534807,Ouro Verde,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3534757,Ouroeste,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3534906,Pacaembu,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3535002,Palestina,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3535101,Palmares Paulista,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3535200,Palmeira d'Oeste,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3535309,Palmital,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3535408,Panorama,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3535507,Paraguaçu Paulista,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3535606,Paraibuna,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3535705,Paraíso,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3535804,Paranapanema,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3535903,Paranapuã,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3536000,Parapuã,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3536109,Pardinho,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3536208,Pariquera-Açu,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3536257,Parisi,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3536307,Patrocínio Paulista,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3536406,Paulicéia,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3536505,Paulínia,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3536570,Paulistânia,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3536604,Paulo de Faria,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3536703,Pederneiras,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3536802,Pedra Bela,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3536901,Pedranópolis,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3537008,Pedregulho,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3537107,Pedreira,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3537156,Pedrinhas Paulista,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3537206,Pedro de Toledo,CTR-III,Santos,Avenida Bartolomeu Gusmão,192,,11030-906,Ponta da Praia,Santos,(13) 3269-1200,,cfb.santos@sp.gov.br, JoãoThiago Wonrath Mele
+3537305,Penápolis,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3537404,Pereira Barreto,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3537503,Pereiras,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3537602,Peruíbe,CTR-III,Santos,Avenida Bartolomeu Gusmão,192,,11030-906,Ponta da Praia,Santos,(13) 3269-1200,,cfb.santos@sp.gov.br, JoãoThiago Wonrath Mele
+3537701,Piacatu,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3537800,Piedade,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3537909,Pilar do Sul,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3538006,Pindamonhangaba,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3538105,Pindorama,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3538204,Pinhalzinho,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3538303,Piquerobi,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3538501,Piquete,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3538600,Piracaia,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3538709,Piracicaba,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3538808,Piraju,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3538907,Pirajuí,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3539004,Pirangi,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3539103,Pirapora do Bom Jesus,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3539202,Pirapozinho,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3539301,Pirassununga,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3539400,Piratininga,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3539509,Pitangueiras,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3539608,Planalto,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3539707,Platina,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3539806,Poá,CTR-XII,Mogi das Cruzes,Rua Francisco Franco,133,Sala 23,08710-590,Centro,Mogi das Cruzes,(11) 4796-5852,,cfb.mogi@sp.gov.br, Camila Yumi Kano
+3539905,Poloni,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3540002,Pompéia,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3540101,Pongaí,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3540200,Pontal,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3540259,Pontalinda,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3540309,Pontes Gestal,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3540408,Populina,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3540507,Porangaba,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3540606,Porto Feliz,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3540705,Porto Ferreira,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3540754,Potim,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3540804,Potirendaba,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3540853,Pracinha,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3540903,Pradópolis,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3541000,Praia Grande,CTR-III,Santos,Avenida Bartolomeu Gusmão,192,,11030-906,Ponta da Praia,Santos,(13) 3269-1200,,cfb.santos@sp.gov.br, JoãoThiago Wonrath Mele
+3541059,Pratânia,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3541109,Presidente Alves,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3541208,Presidente Bernardes,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3541307,Presidente Epitácio,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3541406,Presidente Prudente,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3541505,Presidente Venceslau,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3541604,Promissão,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3541653,Quadra,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3541703,Quatá,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3541802,Queiroz,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3541901,Queluz,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3542008,Quintana,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3542107,Rafard,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3542206,Rancharia,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3542305,Redenção da Serra,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3542404,Regente Feijó,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3542503,Reginópolis,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3542602,Registro,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3542701,Restinga,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3542800,Ribeira,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3542909,Ribeirão Bonito,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3543006,Ribeirão Branco,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3543105,Ribeirão Corrente,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3543204,Ribeirão do Sul,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3543238,Ribeirão dos Índios,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3543253,Ribeirão Grande,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3543303,Ribeirão Pires,CTR-XI,São Bernardo do Campo,Rua dos Vianas,625,,09760-040,Baeta Neves,São Bernardo do Campo,(11) 4121-5135,(11) 4121-2571,cfb.sbernardo@sp.gov.br, Michele Aparecida dos Santos Rocha
+3543402,Ribeirão Preto,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3543600,Rifaina,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3543709,Rincão,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3543808,Rinópolis,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3543907,Rio Claro,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3544004,Rio das Pedras,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3544103,Rio Grande da Serra,CTR-XI,São Bernardo do Campo,Rua dos Vianas,625,,09760-040,Baeta Neves,São Bernardo do Campo,(11) 4121-5135,(11) 4121-2571,cfb.sbernardo@sp.gov.br, Michele Aparecida dos Santos Rocha
+3544202,Riolândia,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3543501,Riversul,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3544251,Rosana,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3544301,Roseira,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3544400,Rubiácea,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3544509,Rubinéia,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3544608,Sabino,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3544707,Sagres,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3544806,Sales,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3544905,Sales Oliveira,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3545001,Salesópolis,CTR-XII,Mogi das Cruzes,Rua Francisco Franco,133,Sala 23,08710-590,Centro,Mogi das Cruzes,(11) 4796-5852,,cfb.mogi@sp.gov.br, Camila Yumi Kano
+3545100,Salmourão,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3545159,Saltinho,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3545209,Salto,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3545308,Salto de Pirapora,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3545407,Salto Grande,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3545506,Sandovalina,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3545605,Santa Adélia,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3545704,Santa Albertina,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3545803,Santa Bárbara D'Oeste,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3546009,Santa Branca,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3546108,Santa Clara d'Oeste,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3546207,Santa Cruz da Conceição,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3546256,Santa Cruz da Esperança,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3546306,Santa Cruz das Palmeiras,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3546405,Santa Cruz do Rio Pardo,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3546504,Santa Ernestina,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3546603,Santa Fé do Sul,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3546702,Santa Gertrudes,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3546801,Santa Isabel,CTR-XII,Mogi das Cruzes,Rua Francisco Franco,133,Sala 23,08710-590,Centro,Mogi das Cruzes,(11) 4796-5852,,cfb.mogi@sp.gov.br, Camila Yumi Kano
+3546900,Santa Lúcia,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3547007,Santa Maria da Serra,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3547106,Santa Mercedes,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3547502,Santa Rita do Passa Quatro,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3547403,Santa Rita d'Oeste,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3547601,Santa Rosa de Viterbo,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3547650,Santa Salete,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3547205,Santana da Ponte Pensa,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3547304,Santana de Parnaíba,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3547700,Santo Anastácio,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3547809,Santo André,CTR-XI,São Bernardo do Campo,Rua dos Vianas,625,,09760-040,Baeta Neves,São Bernardo do Campo,(11) 4121-5135,(11) 4121-2571,cfb.sbernardo@sp.gov.br, Michele Aparecida dos Santos Rocha
+3547908,Santo Antônio da Alegria,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3548005,Santo Antônio de Posse,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3548054,Santo Antônio do Aracanguá,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3548104,Santo Antônio do Jardim,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3548203,Santo Antônio do Pinhal,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3548302,Santo Expedito,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3548401,Santópolis do Aguapeí,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3548500,Santos,CTR-III,Santos,Avenida Bartolomeu Gusmão,192,,11030-906,Ponta da Praia,Santos,(13) 3269-1200,,cfb.santos@sp.gov.br, JoãoThiago Wonrath Mele
+3548609,São Bento do Sapucaí,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3548708,São Bernardo do Campo,CTR-XI,São Bernardo do Campo,Rua dos Vianas,625,,09760-040,Baeta Neves,São Bernardo do Campo,(11) 4121-5135,(11) 4121-2571,cfb.sbernardo@sp.gov.br, Michele Aparecida dos Santos Rocha
+3548807,São Caetano do Sul,CTR-XI,São Bernardo do Campo,Rua dos Vianas,625,,09760-040,Baeta Neves,São Bernardo do Campo,(11) 4121-5135,(11) 4121-2571,cfb.sbernardo@sp.gov.br, Michele Aparecida dos Santos Rocha
+3548906,São Carlos,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3549003,São Francisco,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3549102,São João da Boa Vista,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3549201,São João das Duas Pontes,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3549250,São João de Iracema,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3549300,São João do Pau d'Alho,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3549409,São Joaquim da Barra,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3549508,São José da Bela Vista,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3549607,São José do Barreiro,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3549706,São José do Rio Pardo,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3549805,São José do Rio Preto,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3549904,São José dos Campos,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3549953,São Lourenço da Serra,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3550001,São Luís do Paraitinga,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3550100,São Manuel,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3550209,São Miguel Arcanjo,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3550308,São Paulo,CTR-XI,São Bernardo do Campo,Rua dos Vianas,625,,09760-040,Baeta Neves,São Bernardo do Campo,(11) 4121-5135,(11) 4121-2571,cfb.sbernardo@sp.gov.br, Michele Aparecida dos Santos Rocha
+3550407,São Pedro,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3550506,São Pedro do Turvo,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3550605,São Roque,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3550704,São Sebastião,CTR-XIII,Ubatuba,Rua Antonio Marques do Vale,241,,11680-000,Jardim Silop,Ubatuba,(12) 3832-5987,,cfb.ubatuba@sp.gov.br, Gabriele Cerqueira Sant’anna
+3550803,São Sebastião da Grama,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3550902,São Simão,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3551009,São Vicente,CTR-III,Santos,Avenida Bartolomeu Gusmão,192,,11030-906,Ponta da Praia,Santos,(13) 3269-1200,,cfb.santos@sp.gov.br, JoãoThiago Wonrath Mele
+3551108,Sarapuí,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3551207,Sarutaiá,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3551306,Sebastianópolis do Sul,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3551405,Serra Azul,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3551603,Serra Negra,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3551504,Serrana,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3551702,Sertãozinho,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3551801,Sete Barras,CTR-XIV,Registro,Rua das Melastonáceas,54,,11900-000,Vila Tupi,Registro,(13) 3828-1670,,cfb.registro@sp.gov.br, João Nóbrega Junior
+3551900,Severínia,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3552007,Silveiras,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3552106,Socorro,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3552205,Sorocaba,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3552304,Sud Mennucci,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3552403,Sumaré,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3552551,Suzanápolis,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3552502,Suzano,CTR-XII,Mogi das Cruzes,Rua Francisco Franco,133,Sala 23,08710-590,Centro,Mogi das Cruzes,(11) 4796-5852,,cfb.mogi@sp.gov.br, Camila Yumi Kano
+3552601,Tabapuã,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3552700,Tabatinga,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3552809,Taboão da Serra,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3552908,Taciba,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3553005,Taguaí,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3553104,Taiaçu,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3553203,Taiúva,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3553302,Tambaú,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3553401,Tanabi,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3553500,Tapiraí,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3553609,Tapiratiba,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3553658,Taquaral,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3553708,Taquaritinga,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3553807,Taquarituba,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3553856,Taquarivaí,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3553906,Tarabai,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3553955,Tarumã,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3554003,Tatuí,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3554102,Taubaté,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3554201,Tejupá,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3554300,Teodoro Sampaio,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3554409,Terra Roxa,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3554508,Tietê,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3554607,Timburi,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3554656,Torre de Pedra,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3554706,Torrinha,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3554755,Trabiju,CTR-IX,Ribeirão Preto,Avenida Presidente Kennedy,1760,,Cep 14096-350,Nova Ribeirânia,Ribeirão Preto,(16) 3995-9731,,cfb.ribeiraopreto@sp.gov.br, Tania Aparecida Lippi
+3554805,Tremembé,CTR-VII,Taubaté,Largo Santa Luzia,25,,12010-510,Santa Luzia,Taubaté,(12) 3683-0730,,cfb.taubate@sp.gov.br, Leonardo do Nascimento Lopes
+3554904,Três Fronteiras,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3554953,Tuiuti,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3555000,Tupã,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3555109,Tupi Paulista,CTR-V,Presidente Prudente,Rua Eufrásio de Toledo,38,,19060-100,Jardim Marupiara,Presidente Prudente,(18) 3916-9080,,cfb.prudente@sp.gov.br, Rita de Cássia Ghedini
+3555208,Turiúba,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3555307,Turmalina,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3555356,Ubarana,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3555406,Ubatuba,CTR-XIII,Ubatuba,Rua Antonio Marques do Vale,241,,11680-000,Jardim Silop,Ubatuba,(12) 3832-5987,,cfb.ubatuba@sp.gov.br, Gabriele Cerqueira Sant’anna
+3555505,Ubirajara,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3555604,Uchoa,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3555703,União Paulista,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3555802,Urânia,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3555901,Uru,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3556008,Urupês,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3556107,Valentim Gentil,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3556206,Valinhos,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3556305,Valparaíso,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3556354,Vargem,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3556404,Vargem Grande do Sul,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3556453,Vargem Grande Paulista,CTR-X,Embu das Artes,Avenida João Paulo I,495,,06816-550,Jardim Lavorato,Embu das Artes,(11) 4785-1840,,cfb.embu@sp.gov.br, Vinicios Troncone Evaristo
+3556503,Várzea Paulista,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3556602,Vera Cruz,CTR-VI,Bauru,Avenida Rodrigues Alves,138,Quadra 38,17030-000,Vila Cardia,Bauru,(14) 3103-0230,,cfb.bauru@sp.gov.br, José Murilo Martin Nano
+3556701,Vinhedo,CTR-I,Campinas,Avenida Brasil,2340,Prédio I - 2º Andar,13070-178,Jardim Chapadão,Campinas,(19) 3790-3740,,cfb.campinas@sp.gov.br, José Alberto Fusco Sarcinelli
+3556800,Viradouro,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3556909,Vista Alegre do Alto,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
+3556958,Vitória Brasil,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3557006,Votorantim,CTR-VIII,Sorocaba,Rua Epitácio Pessoa,269,,18013-190,Além Ponte,Sorocaba,(15) 3321-9150,,cfb.sorocaba@sp.gov.br, Silvia Cenci
+3557105,Votuporanga,CTR-II,Araçatuba,Rua Tenente Alcides Theodoro dos Santos,260,,16055-557,Aviação,Araçatuba,(18) 3607-0550,,cfb.aracatuba@sp.gov.br, Paulo Roberto Brinholi
+3557154,Zacarias,CTR-IV,São José do Rio Preto,Avenida América,544,,15013-310,Vila Diniz,São José do Rio Preto,(17) 3214-4760,,cfb.sjriopreto@sp.gov.br, Ana Eliza Baccarin Leonardo
